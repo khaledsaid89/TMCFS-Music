@@ -1,0 +1,6 @@
+owner=373543054935851009
+prefix=c
+game=Cplay
+stayinchannel=true
+songinstatus=false
+token=NTkwMjYyODA2NDE5MzQxMzQz.XQf3vA.vpqapG1zbg7SWO3Qw-gJqDsXse8
